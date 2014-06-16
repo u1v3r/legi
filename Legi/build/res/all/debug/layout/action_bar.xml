@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:legi="http://schemas.android.com/apk/res-auto"
+              android:id="@+id/action_bar"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/green">
+<!--
+	<ImageButton
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:id="@+id/imageView"
+			android:src="@drawable/ic_actionbar_toggle"
+			android:layout_gravity="center"
+			android:background="@android:color/transparent"
+			android:contentDescription="Toggle Button"/>
+-->
+	<sk.rdy.legi.widget.TypeFacedTextView
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			legi:typeface="Oswald-Bold.ttf"
+			android:textColor="#ffffff"
+			android:background="@color/green"
+			android:id="@+id/action_bar_title"
+			android:textSize="25dp"
+			android:layout_gravity="center"
+			android:gravity="center"/>
+
+</LinearLayout><!-- From: file:/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/layout/action_bar.xml -->

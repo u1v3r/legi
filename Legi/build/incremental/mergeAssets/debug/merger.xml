@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets" >
+            <file
+                name="fonts/Roboto-BoldItalic.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/Roboto-BoldItalic.ttf" />
+            <file
+                name="fonts/DroidSerif-Bold.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/DroidSerif-Bold.ttf" />
+            <file
+                name="fonts/DroidSerif-BoldItalic.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/DroidSerif-BoldItalic.ttf" />
+            <file
+                name="fonts/Roboto-Medium.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/Roboto-Medium.ttf" />
+            <file
+                name="fonts/Lato-Light.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/Lato-Light.ttf" />
+            <file
+                name="fonts/Roboto-ThinItalic.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/Roboto-ThinItalic.ttf" />
+            <file
+                name="fonts/Roboto-MediumItalic.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/Roboto-MediumItalic.ttf" />
+            <file
+                name="fonts/Roboto-Light.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/Roboto-Light.ttf" />
+            <file
+                name="fonts/Oswald-Bold.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/Oswald-Bold.ttf" />
+            <file
+                name="fonts/ChunkfiveEx.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/ChunkfiveEx.ttf" />
+            <file
+                name="fonts/Roboto-BoldCondensed.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/Roboto-BoldCondensed.ttf" />
+            <file
+                name="fonts/Roboto-Regular.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/Roboto-Regular.ttf" />
+            <file
+                name="fonts/Roboto-Black.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/Roboto-Black.ttf" />
+            <file
+                name="fonts/DroidSerif-Italic.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/DroidSerif-Italic.ttf" />
+            <file
+                name="fonts/Oswald-Light.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/Oswald-Light.ttf" />
+            <file
+                name="fonts/Lato-Bold.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/Lato-Bold.ttf" />
+            <file
+                name="fonts/Roboto-Condensed.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/Roboto-Condensed.ttf" />
+            <file
+                name="fonts/Roboto-BlackItalic.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/Roboto-BlackItalic.ttf" />
+            <file
+                name="fonts/Roboto-CondensedItalic.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/Roboto-CondensedItalic.ttf" />
+            <file
+                name="fonts/Roboto-Italic.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/Roboto-Italic.ttf" />
+            <file
+                name="fonts/Roboto-Bold.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/Roboto-Bold.ttf" />
+            <file
+                name="fonts/Lato-Regular.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/Lato-Regular.ttf" />
+            <file
+                name="fonts/Roboto-LightItalic.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/Roboto-LightItalic.ttf" />
+            <file
+                name="fonts/Oswald-Regular.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/Oswald-Regular.ttf" />
+            <file
+                name="fonts/Roboto-BoldCondensedItalic.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/Roboto-BoldCondensedItalic.ttf" />
+            <file
+                name="fonts/Roboto-Thin.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/Roboto-Thin.ttf" />
+            <file
+                name="fonts/DroidSerif-Regular.ttf"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/assets/fonts/DroidSerif-Regular.ttf" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/debug/assets" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Legi</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="login">Login</string>
+    <string name="welcome_msg">Welcome to</string>
+    <string name="font_family_roboto">sans-serif</string>
+    <string name="font_family_roboto_light">sans-serif-light</string>
+    <string name="email">e-mail</string>
+    <string name="password">password</string>
+    <string name="the_old_reader">The Old Reader</string>
+    <string name="mobile">Mobile</string>
+    <string name="the_old">The Old</string>
+    <string name="reader">Reader</string>
+    <string name="sign_in">Sign In</string>
+    <string name="the_old_reader_logo">The Old Reader Logo</string>
+    <string name="title_activity_main">Legi.</string>
+	<string name="drawer_open">Open</string>
+	<string name="drawer_close">Close</string>
+	<string name="login_to_your">Login to your</string>
+	<string name="account">account</string>
+	<string name="oswald_bold">Oswald-Bold.ttf</string>
+	<string name="oswald_regular">Oswald-Regular.ttf</string>
+	<string name="oswald_light">Oswald-Light.ttf</string>
+	<string name="roboto_bold">Roboto-Bold.ttf</string>
+	<string name="roboto_regular">Roboto-Regular.ttf</string>
+	<string name="roboto_light">Roboto-Light.ttf</string>
+	<string name="roboto_thin">Roboto-Thin.ttf</string>
+	<string name="roboto_medium">Roboto-Medium.ttf</string>
+	<string name="latest">Latest</string>
+	<string name="favorites">Favorites</string>
+	<string name="refresh">Refresh</string>
+	<string name="lato_regular">Lato-Regular.ttf</string>
+	<string name="lato_bold">Lato-Bold.ttf</string>
+	<string name="lato_light">Lato-Light.ttf</string>
+	<string name="droid_serif_regular">DroidSerif-Regular.ttf</string>
+
+</resources>

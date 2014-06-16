@@ -1,0 +1,6 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+	<dimen name="auth_activity_padding_left">20dp</dimen><dimen name="auth_activity_icon_left_margin">2dp</dimen><dimen name="drawer_list_unread_margin_right">10dp</dimen><dimen name="drawer_list_group_text_size">20dp</dimen>
+</resources>

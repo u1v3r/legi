@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="transparent">#00ffffff</color>
+	<color name="black">#000000</color>
+    <color name="green">#22b573</color>
+	<color name="green_gardient_stop">#1B935D</color>
+	<color name="green_darker">#0C7E4F</color>
+	<color name="green_light">#C1E1A6</color>
+    <color name="green_border">#187f51</color>
+	<color name="red">#ff4c30</color>
+	<color name="red_darker">#C83B25</color>
+	<color name="red_light">#FF8E7C</color>
+	<color name="red_border">#b21900</color>
+    <color name="orange">#FF9009</color>
+    <color name="grey">#585858</color>
+	<color name="navigation_drawer_background">@android:color/white</color>
+	<color name="navigation_drawer_text">#2d2d2d</color>
+	<color name="navigation_drawer_divider">#ededed</color>
+
+</resources>

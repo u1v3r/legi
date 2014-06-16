@@ -1,0 +1,342 @@
+{"max": 5401, "unreadcounts": [
+	{
+		"id": "user/-/state/com.google/reading-list",
+		"count": 5401,
+		"newestItemTimestampUsec": "1373635195516000"
+	},
+	{
+		"id": "user/-/label/News",
+		"count": 1299,
+		"newestItemTimestampUsec": "1373635063573000"
+	},
+	{
+		"id": "user/-/label/ITNews",
+		"count": 1568,
+		"newestItemTimestampUsec": "1373635195516000"
+	},
+	{
+		"id": "user/-/label/Mobile",
+		"count": 1521,
+		"newestItemTimestampUsec": "1373634930118000"
+	},
+	{
+		"id": "user/-/label/ITDevelop",
+		"count": 2,
+		"newestItemTimestampUsec": "1373615672383000"
+	},
+	{
+		"id": "user/-/label/ITBlogs",
+		"count": 219,
+		"newestItemTimestampUsec": "1373624144632000"
+	},
+	{
+		"id": "user/-/label/Movies",
+		"count": 214,
+		"newestItemTimestampUsec": "1373632194734000"
+	},
+	{
+		"id": "user/-/label/Warez releases",
+		"count": 417,
+		"newestItemTimestampUsec": "1373634652264999"
+	},
+	{
+		"id": "user/-/label/Other",
+		"count": 77,
+		"newestItemTimestampUsec": "1373601629994000"
+	},
+	{
+		"id": "user/-/label/VUT",
+		"count": 0,
+		"newestItemTimestampUsec": "1373395519421000"
+	},
+	{
+		"id": "feed/51dc061e4de383f37c000025",
+		"count": 39,
+		"newestItemTimestampUsec": "1373631247643000"
+	},
+	{
+		"id": "feed/51dc0650d5d5656eff00004e",
+		"count": 16,
+		"newestItemTimestampUsec": "1373542890116000"
+	},
+	{
+		"id": "feed/51dc071682d493ce6e00005b",
+		"count": 29,
+		"newestItemTimestampUsec": "1373617981458000"
+	},
+	{
+		"id": "feed/514db907e721ec0a0f003cb0",
+		"count": 200,
+		"newestItemTimestampUsec": "1373630576753000"
+	},
+	{
+		"id": "feed/514db9bbe721ec0a0f0042ca",
+		"count": 230,
+		"newestItemTimestampUsec": "1373635063573000"
+	},
+	{
+		"id": "feed/514db9cce721ec0a0f004378",
+		"count": 232,
+		"newestItemTimestampUsec": "1373634653579000"
+	},
+	{
+		"id": "feed/514db9b4e721ec0a0f00428d",
+		"count": 2,
+		"newestItemTimestampUsec": "1373621012865000"
+	},
+	{
+		"id": "feed/514db9c7e721ec0a0f00435f",
+		"count": 1,
+		"newestItemTimestampUsec": "1373619781391000"
+	},
+	{
+		"id": "feed/514db910e721ec0a0f003cde",
+		"count": 634,
+		"newestItemTimestampUsec": "1373632754115000"
+	},
+	{
+		"id": "feed/514dba42e721ec0a0f0046a2",
+		"count": 57,
+		"newestItemTimestampUsec": "1373503208774000"
+	},
+	{
+		"id": "feed/514dba6ae721ec0a0f0046fd",
+		"count": 120,
+		"newestItemTimestampUsec": "1373634475752000"
+	},
+	{
+		"id": "feed/514dba6ee721ec0a0f00472f",
+		"count": 0,
+		"newestItemTimestampUsec": "1368130528070000"
+	},
+	{
+		"id": "feed/514dba71e721ec0a0f004750",
+		"count": 75,
+		"newestItemTimestampUsec": "1373587648314000"
+	},
+	{
+		"id": "feed/514db9f5e721ec0a0f004453",
+		"count": 1,
+		"newestItemTimestampUsec": "1373585901528000"
+	},
+	{
+		"id": "feed/514db9ede721ec0a0f004428",
+		"count": 1,
+		"newestItemTimestampUsec": "1373556226654000"
+	},
+	{
+		"id": "feed/514dba05e721ec0a0f0044d0",
+		"count": 5,
+		"newestItemTimestampUsec": "1373635092084000"
+	},
+	{
+		"id": "feed/514db9ffe721ec0a0f00449a",
+		"count": 103,
+		"newestItemTimestampUsec": "1373634775136999"
+	},
+	{
+		"id": "feed/514dba5ee721ec0a0f0046b8",
+		"count": 194,
+		"newestItemTimestampUsec": "1373630961640000"
+	},
+	{
+		"id": "feed/514dba7fe721ec0a0f00480d",
+		"count": 176,
+		"newestItemTimestampUsec": "1373634503221000"
+	},
+	{
+		"id": "feed/514dba7ce721ec0a0f0047dd",
+		"count": 220,
+		"newestItemTimestampUsec": "1373635195516000"
+	},
+	{
+		"id": "feed/514dba78e721ec0a0f00477b",
+		"count": 31,
+		"newestItemTimestampUsec": "1372761853211000"
+	},
+	{
+		"id": "feed/514dba0ae721ec0a0f0044fc",
+		"count": 583,
+		"newestItemTimestampUsec": "1373631947069000"
+	},
+	{
+		"id": "feed/51b9f24ada564d91370000b3",
+		"count": 2,
+		"newestItemTimestampUsec": "1373602068488999"
+	},
+	{
+		"id": "feed/514db8ade721ec0a0f003969",
+		"count": 222,
+		"newestItemTimestampUsec": "1373632935704000"
+	},
+	{
+		"id": "feed/514db8b8e721ec0a0f0039be",
+		"count": 200,
+		"newestItemTimestampUsec": "1373632474324000"
+	},
+	{
+		"id": "feed/514db8a7e721ec0a0f00391f",
+		"count": 216,
+		"newestItemTimestampUsec": "1373630750345000"
+	},
+	{
+		"id": "feed/514db8a1e721ec0a0f003880",
+		"count": 74,
+		"newestItemTimestampUsec": "1373474590850000"
+	},
+	{
+		"id": "feed/514db8bee721ec0a0f003a17",
+		"count": 62,
+		"newestItemTimestampUsec": "1373634930118000"
+	},
+	{
+		"id": "feed/514db8c2e721ec0a0f003a52",
+		"count": 163,
+		"newestItemTimestampUsec": "1373628288005000"
+	},
+	{
+		"id": "feed/514db8c7e721ec0a0f003ac3",
+		"count": 300,
+		"newestItemTimestampUsec": "1373628278066000"
+	},
+	{
+		"id": "feed/514db88ce721ec0a0f003781",
+		"count": 284,
+		"newestItemTimestampUsec": "1373591852947000"
+	},
+	{
+		"id": "feed/514db8e9e721ec0a0f003bf6",
+		"count": 0,
+		"newestItemTimestampUsec": "1373486862536000"
+	},
+	{
+		"id": "feed/514db8fbe721ec0a0f003c51",
+		"count": 1,
+		"newestItemTimestampUsec": "1373559145232000"
+	},
+	{
+		"id": "feed/514db900e721ec0a0f003c79",
+		"count": 1,
+		"newestItemTimestampUsec": "1373615672383000"
+	},
+	{
+		"id": "feed/514db8ede721ec0a0f003c2c",
+		"count": 0,
+		"newestItemTimestampUsec": "1366529987543000"
+	},
+	{
+		"id": "feed/514db8efe721ec0a0f003c37",
+		"count": 0,
+		"newestItemTimestampUsec": "1363650182733000"
+	},
+	{
+		"id": "feed/514db83de721ec0a0f0033b9",
+		"count": 4,
+		"newestItemTimestampUsec": "1373574026502000"
+	},
+	{
+		"id": "feed/514db844e721ec0a0f003445",
+		"count": 1,
+		"newestItemTimestampUsec": "1373597998070000"
+	},
+	{
+		"id": "feed/514db847e721ec0a0f00345e",
+		"count": 5,
+		"newestItemTimestampUsec": "1373583953244000"
+	},
+	{
+		"id": "feed/514db84be721ec0a0f0034f3",
+		"count": 0,
+		"newestItemTimestampUsec": "1364047947196000"
+	},
+	{
+		"id": "feed/514db84ce721ec0a0f00351e",
+		"count": 1,
+		"newestItemTimestampUsec": "1373469294202000"
+	},
+	{
+		"id": "feed/514db84ee721ec0a0f003572",
+		"count": 0,
+		"newestItemTimestampUsec": "1373266968358000"
+	},
+	{
+		"id": "feed/514db84de721ec0a0f00355b",
+		"count": 0,
+		"newestItemTimestampUsec": "1357531991137999"
+	},
+	{
+		"id": "feed/514db84fe721ec0a0f003587",
+		"count": 208,
+		"newestItemTimestampUsec": "1373624144632000"
+	},
+	{
+		"id": "feed/514db850e721ec0a0f0035a9",
+		"count": 113,
+		"newestItemTimestampUsec": "1373578890031000"
+	},
+	{
+		"id": "feed/514db852e721ec0a0f0035c4",
+		"count": 73,
+		"newestItemTimestampUsec": "1373632194734000"
+	},
+	{
+		"id": "feed/514db854e721ec0a0f003607",
+		"count": 14,
+		"newestItemTimestampUsec": "1373504862651000"
+	},
+	{
+		"id": "feed/514db870e721ec0a0f0036f9",
+		"count": 14,
+		"newestItemTimestampUsec": "1373457505591000"
+	},
+	{
+		"id": "feed/51430674bd9279c3ca000071",
+		"count": 257,
+		"newestItemTimestampUsec": "1373634652264999"
+	},
+	{
+		"id": "feed/514db829e721ec0a0f0031ac",
+		"count": 5,
+		"newestItemTimestampUsec": "1373234130125000"
+	},
+	{
+		"id": "feed/514db82be721ec0a0f0031fa",
+		"count": 1,
+		"newestItemTimestampUsec": "1372265272209999"
+	},
+	{
+		"id": "feed/514db82ee721ec0a0f00324d",
+		"count": 20,
+		"newestItemTimestampUsec": "1373556334817000"
+	},
+	{
+		"id": "feed/514db833e721ec0a0f003293",
+		"count": 116,
+		"newestItemTimestampUsec": "1373570535689000"
+	},
+	{
+		"id": "feed/514db836e721ec0a0f0032f7",
+		"count": 10,
+		"newestItemTimestampUsec": "1373056739636000"
+	},
+	{
+		"id": "feed/514db839e721ec0a0f003338",
+		"count": 8,
+		"newestItemTimestampUsec": "1373137976281999"
+	},
+	{
+		"id": "feed/514db83be721ec0a0f003363",
+		"count": 0,
+		"newestItemTimestampUsec": "1367914232547000"
+	},
+	{
+		"id": "feed/514db88ae721ec0a0f003774",
+		"count": 77,
+		"newestItemTimestampUsec": "1373601629994000"
+	},
+	{
+		"id": "feed/514db9dee721ec0a0f0043ce",
+		"count": 0,
+		"newestItemTimestampUsec": "1373395519421000"
+	}
+]}

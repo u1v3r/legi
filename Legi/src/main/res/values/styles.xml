@@ -1,0 +1,115 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+	<!-- ActionBar style. -->
+	<style name="ActionBarTheme" parent="android:Widget.Holo.Light.ActionBar">
+		<!-- <item name="android:windowActionBar">false</item> -->
+		<!-- <item name="android:windowNoTitle">true</item>-->
+		<item name="android:icon">@android:color/transparent</item>
+		<item name="android:background">@color/green</item>
+		<item name="android:titleTextStyle">@style/ActionBarTheme.Title</item>
+	</style>
+
+	<!-- style for action bar title text -->
+	<style name="ActionBarTheme.Title" parent="android:TextAppearance.Holo.Widget.ActionBar.Title">
+		<item name="android:textColor">@android:color/transparent</item>
+	</style>
+
+	<style name="ActionBarTheme.DropDown" parent="android:TextAppearance.Holo.Widget.ActionBar.Menu">
+		<item name="android:textColor">@android:color/darker_gray</item>
+		<item name="android:background">@android:color/white</item>
+	</style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+	    <item name="android:actionBarStyle">@style/ActionBarTheme</item>
+    </style>
+
+	<!-- Default Buttons -->
+	<style name="button">
+		<item name="android:background">@drawable/button</item>
+		<!-- <item name="android:textAllCaps">true</item> -->
+		<item name="android:paddingLeft">30dp</item>
+		<item name="android:paddingRight">30dp</item>
+		<item name="android:paddingTop">8dp</item>
+		<item name="android:paddingBottom">8dp</item>
+		<item name="android:textSize">20dp</item>
+		<item name="android:textColor">@android:color/white</item>
+	</style>
+
+	<style name="image_button">
+		<item name="android:background">@color/transparent</item>
+	</style>
+
+	<!-- Login Button -->
+    <style name="button.login" parent="button">
+        <item name="android:colorBackground">@color/green</item>
+	    <item name="android:textSize">30dp</item>
+    </style>
+
+    <style name="login_app_text">
+        <item name="android:textSize">25dp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/grey</item>
+    </style>
+
+
+	<!-- EditTextView -->
+    <style name="editable_text" parent="android:Widget.EditText">
+	    <item name="android:colorFocusedHighlight">@color/green</item>
+	    <item name="android:textColorHint">@android:color/white</item>
+    </style>
+
+
+	<!-- Login EditTextView -->
+    <style name="editable_text.login" parent="editable_text">
+	    <item name="android:textSize">27dp</item>
+	    <item name="android:paddingLeft">@dimen/auth_activity_padding_left</item>
+    </style>
+
+	<style name="auth_activity_small_text">
+		<item name="android:textColor">@android:color/white</item>
+		<item name="android:textSize">48dp</item>
+    </style>
+
+	<style name="auth_activity_big_text" parent="auth_activity_small_text">
+		<item name="android:textSize">65dp</item>
+	</style>
+
+	<style name="nav_drawer_group_unread_textview">
+		<item name="android:background">@color/red</item>
+		<item name="android:paddingTop">5dp</item>
+		<item name="android:paddingLeft">5dp</item>
+		<item name="android:paddingRight">5dp</item>
+		<item name="android:paddingBottom">5dp</item>
+		<item name="android:textColor">@android:color/white</item>
+	</style>
+
+	<style name="nav_drawer_children_unread_textview" parent="nav_drawer_group_unread_textview">
+		<item name="android:background">@color/red_light</item>
+	</style>
+
+
+	<style name="nav_drawer_head_divider">
+		<item name="android:layout_width">match_parent</item>
+		<item name="android:layout_height">1dp</item>
+		<item name="android:layout_marginTop">5dp</item>
+		<item name="android:layout_marginLeft">5dp</item>
+		<item name="android:layout_marginRight">5dp</item>
+		<item name="android:layout_marginBottom">5dp</item>
+		<item name="android:background">@color/navigation_drawer_divider</item>
+	</style>
+
+</resources>

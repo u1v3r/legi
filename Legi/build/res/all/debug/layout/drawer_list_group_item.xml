@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:legi="http://schemas.android.com/apk/res-auto"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:gravity="fill">
+
+	<ImageView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:id="@+id/imageView"
+			android:src="@drawable/ic_folder"
+			android:layout_gravity="center_vertical"/>
+
+	<sk.rdy.legi.widget.TypeFacedTextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			legi:typeface="@string/oswald_regular"
+			android:textColor="@color/navigation_drawer_text"
+			android:textSize="@dimen/drawer_list_group_text_size"
+			android:id="@+id/navigation_drawer_group_folder_name"
+			android:gravity="center_vertical|left"
+			android:text="sdfasfdasfdasf"
+			android:layout_gravity="center_vertical"/>
+
+	<FrameLayout
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent">
+
+		<sk.rdy.legi.widget.TypeFacedTextView
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				legi:typeface="@string/oswald_light"
+				android:id="@+id/navigation_drawer_group_unread_count"
+				android:text="123"
+				style="@style/nav_drawer_group_unread_textview"
+				android:layout_gravity="center_vertical|right"
+				android:layout_marginRight="@dimen/drawer_list_unread_margin_right"/>
+	</FrameLayout>
+
+</LinearLayout><!-- From: file:/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/layout/drawer_list_group_item.xml -->

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:legi="http://schemas.android.com/apk/res-auto"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+	<RelativeLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content">
+
+		<ImageButton
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:id="@+id/imageButton"
+				style="@style/image_button"
+				android:src="@drawable/ic_sync"
+				android:layout_gravity="center_vertical"
+				android:layout_centerVertical="true"
+				android:layout_alignParentLeft="true"/>
+
+		<ImageButton
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:id="@+id/imageButton2"
+				style="@style/image_button"
+				android:src="@drawable/ic_settings"
+				android:layout_gravity="center_vertical|right"
+				android:layout_alignTop="@+id/imageButton"
+				android:layout_alignParentRight="true"/>
+
+	</RelativeLayout>
+
+	<View style="@style/nav_drawer_head_divider"/>
+
+	<LinearLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:orientation="horizontal"
+			>
+
+		<ImageView
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:id="@+id/imageView"
+				android:src="@drawable/ic_latest"/>
+
+		<sk.rdy.legi.widget.TypeFacedTextView
+				android:layout_width="wrap_content"
+				android:layout_height="fill_parent"
+				legi:typeface="@string/oswald_regular"
+				android:textSize="@dimen/drawer_list_group_text_size"
+				android:text="@string/latest"
+				android:id="@+id/textView"
+				android:layout_gravity="center_vertical"
+				android:gravity="center_vertical|left"/>
+
+	</LinearLayout>
+
+	<LinearLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:orientation="horizontal"
+			>
+		<ImageView
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:id="@+id/imageView2"
+				android:src="@drawable/ic_favorites"/>
+
+		<sk.rdy.legi.widget.TypeFacedTextView
+				android:layout_width="wrap_content"
+				android:layout_height="match_parent"
+				legi:typeface="@string/oswald_regular"
+				android:textSize="@dimen/drawer_list_group_text_size"
+				android:text="@string/favorites"
+				android:id="@+id/textView2"
+				android:layout_gravity="center_vertical"
+				android:gravity="center_vertical|left"/>
+	</LinearLayout>
+
+	<View style="@style/nav_drawer_head_divider"/>
+
+</LinearLayout>

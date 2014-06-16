@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res" >
+            <file
+                name="auth_activity"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/menu/auth_activity.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                name="ic_password"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-hdpi/ic_password.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="old_reader_logo"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-hdpi/old_reader_logo.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_sync"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-hdpi/ic_sync.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_folder"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-hdpi/ic_folder.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_favorites"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-hdpi/ic_favorites.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_settings"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-hdpi/ic_settings.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_actionbar_toggle"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-hdpi/ic_actionbar_toggle.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_latest"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-hdpi/ic_latest.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_person"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-hdpi/ic_person.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_password"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-mdpi/ic_password.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="old_reader_logo"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-mdpi/old_reader_logo.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_sync"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-mdpi/ic_sync.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_folder"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-mdpi/ic_folder.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_favorites"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-mdpi/ic_favorites.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_settings"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-mdpi/ic_settings.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_actionbar_toggle"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-mdpi/ic_actionbar_toggle.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_latest"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-mdpi/ic_latest.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_person"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-mdpi/ic_person.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="frame"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/layout/frame.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="drawer_list_item"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/layout/drawer_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_auth"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/layout/activity_auth.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="action_bar"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/layout/action_bar.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_feed_list_item"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/layout/fragment_feed_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="drawer_list_child_item"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/layout/drawer_list_child_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_feed_list"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/layout/fragment_feed_list.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="drawer_list_footer"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/layout/drawer_list_footer.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="drawer_list_group_item"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/layout/drawer_list_group_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="drawer_list_header"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/layout/drawer_list_header.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="drawer_list_child_item_listview"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/layout/drawer_list_child_item_listview.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="authenticator"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/xml/authenticator.xml"
+                qualifiers=""
+                type="xml" />
+            <file
+                name="prefs"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/xml/prefs.xml"
+                qualifiers=""
+                type="xml" />
+            <file
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="favorites" >Favorites
+                </string>
+                <string name="font_family_roboto" >sans-serif
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="reader" >Reader
+                </string>
+                <string name="title_activity_main" >Legi.
+                </string>
+                <string name="login_to_your" >Login to your
+                </string>
+                <string name="roboto_regular" >Roboto-Regular.ttf
+                </string>
+                <string name="roboto_bold" >Roboto-Bold.ttf
+                </string>
+                <string name="roboto_medium" >Roboto-Medium.ttf
+                </string>
+                <string name="oswald_light" >Oswald-Light.ttf
+                </string>
+                <string name="the_old_reader_logo" >The Old Reader Logo
+                </string>
+                <string name="roboto_thin" >Roboto-Thin.ttf
+                </string>
+                <string name="the_old" >The Old
+                </string>
+                <string name="the_old_reader" >The Old Reader
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="password" >password
+                </string>
+                <string name="login" >Login
+                </string>
+                <string name="lato_bold" >Lato-Bold.ttf
+                </string>
+                <string name="sign_in" >Sign In
+                </string>
+                <string name="email" >e-mail
+                </string>
+                <string name="oswald_regular" >Oswald-Regular.ttf
+                </string>
+                <string name="oswald_bold" >Oswald-Bold.ttf
+                </string>
+                <string name="latest" >Latest
+                </string>
+                <string name="roboto_light" >Roboto-Light.ttf
+                </string>
+                <string name="drawer_close" >Close
+                </string>
+                <string name="font_family_roboto_light" >sans-serif-light
+                </string>
+                <string name="droid_serif_regular" >DroidSerif-Regular.ttf
+                </string>
+                <string name="account" >account
+                </string>
+                <string name="mobile" >Mobile
+                </string>
+                <string name="lato_regular" >Lato-Regular.ttf
+                </string>
+                <string name="app_name" >Legi
+                </string>
+                <string name="refresh" >Refresh
+                </string>
+                <string name="welcome_msg" >Welcome to
+                </string>
+                <string name="lato_light" >Lato-Light.ttf
+                </string>
+                <string name="drawer_open" >Open
+                </string>
+            </file>
+            <file
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="drawer_list_unread_margin_right" >10dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="auth_activity_icon_left_margin" >2dp
+                </dimen>
+                <dimen name="drawer_list_group_text_size" >20dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="auth_activity_padding_left" >20dp
+                </dimen>
+            </file>
+            <file
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/values/ids.xml"
+                qualifiers="" >
+                <item
+                    name="layout_id"
+                    type="id"/>
+            </file>
+            <file
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/values/attrs.xml"
+                qualifiers="" >
+                <declare-styleable name="TypeFacedButton" >
+                    <attr
+                        name="button_typeface"
+                        format="string" />
+                </declare-styleable>
+                <declare-styleable name="TypeFacedEditText" >
+                    <attr
+                        name="edittext_typeface"
+                        format="string" />
+                </declare-styleable>
+                <declare-styleable name="TypeFacedTextView" >
+                    <attr
+                        name="typeface"
+                        format="string" />
+                </declare-styleable>
+            </file>
+            <file
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="ActionBarTheme"
+                    parent="android:Widget.Holo.Light.ActionBar" >
+
+                    <!-- <item name="android:windowActionBar">false</item> -->
+                    <!-- <item name="android:windowNoTitle">true</item> -->
+                    <item name="android:icon">
+@android:color/transparent
+                    </item>
+                    <item name="android:background">
+@color/green
+                    </item>
+                    <item name="android:titleTextStyle">
+@style/ActionBarTheme.Title
+                    </item>
+                </style>
+
+                <style
+                    name="nav_drawer_children_unread_textview"
+                    parent="nav_drawer_group_unread_textview" >
+                    <item name="android:background">
+@color/red_light
+                    </item>
+                </style>
+
+                <style name="nav_drawer_group_unread_textview" >
+                    <item name="android:background">
+@color/red
+                    </item>
+                    <item name="android:paddingTop">
+5dp
+                    </item>
+                    <item name="android:paddingLeft">
+5dp
+                    </item>
+                    <item name="android:paddingRight">
+5dp
+                    </item>
+                    <item name="android:paddingBottom">
+5dp
+                    </item>
+                    <item name="android:textColor">
+@android:color/white
+                    </item>
+                </style>
+
+                <style
+                    name="button.login"
+                    parent="button" >
+                    <item name="android:colorBackground">
+@color/green
+                    </item>
+                    <item name="android:textSize">
+30dp
+                    </item>
+                </style>
+
+                <style
+                    name="auth_activity_big_text"
+                    parent="auth_activity_small_text" >
+                    <item name="android:textSize">
+65dp
+                    </item>
+                </style>
+
+                <style name="button" >
+                    <item name="android:background">
+@drawable/button
+                    </item>
+                    <!-- <item name="android:textAllCaps">true</item> -->
+                    <item name="android:paddingLeft">
+30dp
+                    </item>
+                    <item name="android:paddingRight">
+30dp
+                    </item>
+                    <item name="android:paddingTop">
+8dp
+                    </item>
+                    <item name="android:paddingBottom">
+8dp
+                    </item>
+                    <item name="android:textSize">
+20dp
+                    </item>
+                    <item name="android:textColor">
+@android:color/white
+                    </item>
+                </style>
+
+                <style
+                    name="editable_text"
+                    parent="android:Widget.EditText" >
+                    <item name="android:colorFocusedHighlight">
+@color/green
+                    </item>
+                    <item name="android:textColorHint">
+@android:color/white
+                    </item>
+                </style>
+
+                <style
+                    name="ActionBarTheme.DropDown"
+                    parent="android:TextAppearance.Holo.Widget.ActionBar.Menu" >
+                    <item name="android:textColor">
+@android:color/darker_gray
+                    </item>
+                    <item name="android:background">
+@android:color/white
+                    </item>
+                </style>
+
+                <style
+                    name="editable_text.login"
+                    parent="editable_text" >
+                    <item name="android:textSize">
+27dp
+                    </item>
+                    <item name="android:paddingLeft">
+@dimen/auth_activity_padding_left
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style name="login_app_text" >
+                    <item name="android:textSize">
+25dp
+                    </item>
+                    <item name="android:textAllCaps">
+true
+                    </item>
+                    <item name="android:textStyle">
+bold
+                    </item>
+                    <item name="android:textColor">
+@color/grey
+                    </item>
+                </style>
+
+                <style name="auth_activity_small_text" >
+                    <item name="android:textColor">
+@android:color/white
+                    </item>
+                    <item name="android:textSize">
+48dp
+                    </item>
+                </style>
+
+                <style
+                    name="ActionBarTheme.Title"
+                    parent="android:TextAppearance.Holo.Widget.ActionBar.Title" >
+                    <item name="android:textColor">
+@android:color/transparent
+                    </item>
+                </style>
+
+                <style name="image_button" >
+                    <item name="android:background">
+@color/transparent
+                    </item>
+                </style>
+
+                <style name="nav_drawer_head_divider" >
+                    <item name="android:layout_width">
+match_parent
+                    </item>
+                    <item name="android:layout_height">
+1dp
+                    </item>
+                    <item name="android:layout_marginTop">
+5dp
+                    </item>
+                    <item name="android:layout_marginLeft">
+5dp
+                    </item>
+                    <item name="android:layout_marginRight">
+5dp
+                    </item>
+                    <item name="android:layout_marginBottom">
+5dp
+                    </item>
+                    <item name="android:background">
+@color/navigation_drawer_divider
+                    </item>
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+                    <item name="android:actionBarStyle">
+@style/ActionBarTheme
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="green" >#22b573
+                </color>
+                <color name="green_gardient_stop" >#1B935D
+                </color>
+                <color name="red" >#ff4c30
+                </color>
+                <color name="navigation_drawer_divider" >#ededed
+                </color>
+                <color name="orange" >#FF9009
+                </color>
+                <color name="grey" >#585858
+                </color>
+                <color name="navigation_drawer_text" >#2d2d2d
+                </color>
+                <color name="red_border" >#b21900
+                </color>
+                <color name="red_light" >#FF8E7C
+                </color>
+                <color name="green_darker" >#0C7E4F
+                </color>
+                <color name="black" >#000000
+                </color>
+                <color name="red_darker" >#C83B25
+                </color>
+                <color name="green_border" >#187f51
+                </color>
+                <color name="transparent" >#00ffffff
+                </color>
+                <color name="navigation_drawer_background" >@android:color/white
+                </color>
+                <color name="green_light" >#C1E1A6
+                </color>
+            </file>
+            <file
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/values-sw600dp/dimens.xml"
+                qualifiers="sw600dp" />
+            <file
+                name="ic_password"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-xxhdpi/ic_password.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="old_reader_logo"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-xxhdpi/old_reader_logo.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_sync"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-xxhdpi/ic_sync.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_folder"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-xxhdpi/ic_folder.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_favorites"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-xxhdpi/ic_favorites.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_settings"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-xxhdpi/ic_settings.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_actionbar_toggle"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-xxhdpi/ic_actionbar_toggle.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_latest"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-xxhdpi/ic_latest.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_person"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-xxhdpi/ic_person.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_password"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-xhdpi/ic_password.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="old_reader_logo"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-xhdpi/old_reader_logo.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_sync"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-xhdpi/ic_sync.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_folder"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-xhdpi/ic_folder.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_favorites"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-xhdpi/ic_favorites.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_settings"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-xhdpi/ic_settings.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_actionbar_toggle"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-xhdpi/ic_actionbar_toggle.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_latest"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-xhdpi/ic_latest.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_person"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable-xhdpi/ic_person.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="button"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable/button.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="green_icon_background"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable/green_icon_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="button_circle"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable/button_circle.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_button_signin_hovered"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable/ic_button_signin_hovered.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_button_signin"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable/ic_button_signin.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="auth_edit_text"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable/auth_edit_text.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="auth_background"
+                path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/main/res/drawable/auth_background.xml"
+                qualifiers=""
+                type="drawable" />
+        </source>
+        <source path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/rdy/android/workspace/TheOldReaderMobileProject/Legi/src/debug/res" />
+    </dataSet>
+
+</merger>

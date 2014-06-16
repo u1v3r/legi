@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Legi/Legi.iml" filepath="$PROJECT_DIR$/Legi/Legi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheOldReaderApi/TheOldReaderApi.iml" filepath="$PROJECT_DIR$/TheOldReaderApi/TheOldReaderApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheOldReaderMobileProject.iml" filepath="$PROJECT_DIR$/TheOldReaderMobileProject.iml" />
+    </modules>
+  </component>
+</project>
+
